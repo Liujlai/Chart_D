@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		2BE5873E268FE169186FA281 /* Pods_Chart_D.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 193B13C34EA496698B781A2A /* Pods_Chart_D.framework */; };
+		785234842016DD6C00BB2C5A /* CViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785234832016DD6C00BB2C5A /* CViewController.swift */; };
+		785234862017094500BB2C5A /* DViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785234852017094500BB2C5A /* DViewController.swift */; };
 		785831A7200EE72600858080 /* AViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785831A6200EE72600858080 /* AViewController.swift */; };
 		785831A9200EED0800858080 /* BViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785831A8200EED0800858080 /* BViewController.swift */; };
 		788720FD200DF4F400DB31E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 788720FC200DF4F400DB31E0 /* AppDelegate.swift */; };
@@ -20,6 +22,8 @@
 
 /* Begin PBXFileReference section */
 		193B13C34EA496698B781A2A /* Pods_Chart_D.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Chart_D.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		785234832016DD6C00BB2C5A /* CViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CViewController.swift; sourceTree = "<group>"; };
+		785234852017094500BB2C5A /* DViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DViewController.swift; sourceTree = "<group>"; };
 		785831A6200EE72600858080 /* AViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AViewController.swift; sourceTree = "<group>"; };
 		785831A8200EED0800858080 /* BViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BViewController.swift; sourceTree = "<group>"; };
 		788720F9200DF4F400DB31E0 /* Chart_D.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chart_D.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -71,6 +75,8 @@
 				788720FE200DF4F400DB31E0 /* ViewController.swift */,
 				785831A6200EE72600858080 /* AViewController.swift */,
 				785831A8200EED0800858080 /* BViewController.swift */,
+				785234832016DD6C00BB2C5A /* CViewController.swift */,
+				785234852017094500BB2C5A /* DViewController.swift */,
 				78AB2CDB200DF9FB0016E4C3 /* DemoBaseViewController.swift */,
 				78872100200DF4F400DB31E0 /* Main.storyboard */,
 				78872103200DF4F400DB31E0 /* Assets.xcassets */,
@@ -234,6 +240,8 @@
 				78AB2CDC200DF9FB0016E4C3 /* DemoBaseViewController.swift in Sources */,
 				788720FF200DF4F400DB31E0 /* ViewController.swift in Sources */,
 				785831A9200EED0800858080 /* BViewController.swift in Sources */,
+				785234862017094500BB2C5A /* DViewController.swift in Sources */,
+				785234842016DD6C00BB2C5A /* CViewController.swift in Sources */,
 				788720FD200DF4F400DB31E0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
